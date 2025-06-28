@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PageobjectmodelingFirstclass/.idea/PageobjectmodelingFirstclass.iml" filepath="$PROJECT_DIR$/../PageobjectmodelingFirstclass/.idea/PageobjectmodelingFirstclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/orangehrmlive.iml" filepath="$PROJECT_DIR$/.idea/orangehrmlive.iml" />
+    </modules>
+  </component>
+</project>
